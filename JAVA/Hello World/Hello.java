@@ -1,9 +1,9 @@
-import java.lang.*;
+//2023.05.19
 
 class Hello{
 
   public static void main(String[] args){
-    System.out.println("Hello, World.");
+    System.out.println("Hello World");     //in println p should be small letter
     System.out.println("Hello, Java.");
   }
 }
